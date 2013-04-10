@@ -2,8 +2,8 @@ org.whizu.dom
 org.whizu.jquery
 org.whizu.jquery.mobile
 org.whizu.jquery.ui
+org.whizu.sencha
 org.whizu.server
 org.whizu.ui
-org.whizu.ui.sencha
 org.whizu.value
 org.whizu.widget
