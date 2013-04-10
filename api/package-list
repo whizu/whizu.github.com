@@ -1,4 +1,4 @@
-org.whizu.html
+org.whizu.dom
 org.whizu.jquery
 org.whizu.jquery.mobile
 org.whizu.jquery.ui
@@ -6,3 +6,4 @@ org.whizu.runtime
 org.whizu.server
 org.whizu.ui
 org.whizu.value
+org.whizu.widget
