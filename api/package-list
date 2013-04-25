@@ -1,11 +1,12 @@
+org.whizu.annotation
+org.whizu.context
+org.whizu.css
 org.whizu.dom
 org.whizu.html
 org.whizu.jquery
 org.whizu.jquery.mobile
-org.whizu.jquery.ui
 org.whizu.js
 org.whizu.layout
-org.whizu.sencha
 org.whizu.server
 org.whizu.ui
 org.whizu.value
