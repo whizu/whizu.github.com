@@ -194,7 +194,7 @@ body {
 }
 
 .tryToMessage ul li a:hover {
-	color:#261f09;
+	text-decoration: underline;
 }
 
 /*search holder */
@@ -285,7 +285,7 @@ footer p.copy {
     color: #41444b;
     float: left;
     font-family: 'Istok Web',sans-serif;
-    font-size: 0.9em;
+    font-size: 1em;
     margin: 3px 0 0;
     text-align: left;
     width: 300px;
