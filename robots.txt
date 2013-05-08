@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /api
+Disallow: /download
+Disallow: /images
+Disallow: /javascripts
+Disallow: /stylesheets
+User-Agent: Googlebot-Image
+Disallow: /images
